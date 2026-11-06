@@ -1,0 +1,7 @@
+{
+  "appId": "com.bassam.crazybottles",
+  "appName": "Crazy Bottles",
+  "webDir": "www",
+  "backgroundColor": "#14152e",
+  "android": { "allowMixedContent": false }
+}

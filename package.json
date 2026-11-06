@@ -1,0 +1,11 @@
+{
+  "name": "crazy-bottles",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Crazy Bottles - a cozy Japanese-night water sort puzzle",
+  "scripts": {
+    "icons": "capacitor-assets generate --android",
+    "sync": "cap sync android",
+    "open": "cap open android"
+  }
+}
